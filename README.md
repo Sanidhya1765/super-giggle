@@ -31,6 +31,8 @@ Go to the project folder
 
 ```bash
 cd flaks
+
+remove .github/workflows
 ```
 
 Install dependencies
