@@ -1,6 +1,6 @@
 {
-  "name": "flaks",
-  "version": "1.0.0",
+  "name": "coder-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
